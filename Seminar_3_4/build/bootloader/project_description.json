@@ -1,0 +1,21 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "D:/Uni/2022-2023/iot/espp/esp-idf-v4.4.2/components/bootloader/subproject",
+    "build_dir":          "C:/Users/victo/eclipse-workspace/Seminar_3_4/build/bootloader",
+    "config_file":        "C:/Users/victo/eclipse-workspace/Seminar_3_4/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "GIT-NOTFOUND",
+    "target":             "esp32s2",
+    "rev":                "",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32s2-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "D:/Uni/2022-2023/iot/espp/esp-idf-v4.4.2/components/efuse/Kconfig;D:/Uni/2022-2023/iot/espp/esp-idf-v4.4.2/components/esp32s2/Kconfig;D:/Uni/2022-2023/iot/espp/esp-idf-v4.4.2/components/esp_common/Kconfig;D:/Uni/2022-2023/iot/espp/esp-idf-v4.4.2/components/esp_hw_support/Kconfig;D:/Uni/2022-2023/iot/espp/esp-idf-v4.4.2/components/esp_system/Kconfig;D:/Uni/2022-2023/iot/espp/esp-idf-v4.4.2/components/freertos/Kconfig;D:/Uni/2022-2023/iot/espp/esp-idf-v4.4.2/components/hal/Kconfig;D:/Uni/2022-2023/iot/espp/esp-idf-v4.4.2/components/log/Kconfig;D:/Uni/2022-2023/iot/espp/esp-idf-v4.4.2/components/newlib/Kconfig;D:/Uni/2022-2023/iot/espp/esp-idf-v4.4.2/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "D:/Uni/2022-2023/iot/espp/esp-idf-v4.4.2/components/bootloader/Kconfig.projbuild;D:/Uni/2022-2023/iot/espp/esp-idf-v4.4.2/components/esp_rom/Kconfig.projbuild;D:/Uni/2022-2023/iot/espp/esp-idf-v4.4.2/components/esptool_py/Kconfig.projbuild;D:/Uni/2022-2023/iot/espp/esp-idf-v4.4.2/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32s2", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "freertos", "hal", "log", "main", "micro-ecc", "newlib", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "D:/Uni/2022-2023/iot/espp/esp-idf-v4.4.2/components/bootloader", "D:/Uni/2022-2023/iot/espp/esp-idf-v4.4.2/components/bootloader_support", "D:/Uni/2022-2023/iot/espp/esp-idf-v4.4.2/components/efuse", "D:/Uni/2022-2023/iot/espp/esp-idf-v4.4.2/components/esp32s2", "D:/Uni/2022-2023/iot/espp/esp-idf-v4.4.2/components/esp_common", "D:/Uni/2022-2023/iot/espp/esp-idf-v4.4.2/components/esp_hw_support", "D:/Uni/2022-2023/iot/espp/esp-idf-v4.4.2/components/esp_rom", "D:/Uni/2022-2023/iot/espp/esp-idf-v4.4.2/components/esp_system", "D:/Uni/2022-2023/iot/espp/esp-idf-v4.4.2/components/esptool_py", "D:/Uni/2022-2023/iot/espp/esp-idf-v4.4.2/components/freertos", "D:/Uni/2022-2023/iot/espp/esp-idf-v4.4.2/components/hal", "D:/Uni/2022-2023/iot/espp/esp-idf-v4.4.2/components/log", "D:/Uni/2022-2023/iot/espp/esp-idf-v4.4.2/components/bootloader/subproject/main", "D:/Uni/2022-2023/iot/espp/esp-idf-v4.4.2/components/bootloader/subproject/components/micro-ecc", "D:/Uni/2022-2023/iot/espp/esp-idf-v4.4.2/components/newlib", "D:/Uni/2022-2023/iot/espp/esp-idf-v4.4.2/components/partition_table", "D:/Uni/2022-2023/iot/espp/esp-idf-v4.4.2/components/soc", "D:/Uni/2022-2023/iot/espp/esp-idf-v4.4.2/components/spi_flash", "D:/Uni/2022-2023/iot/espp/esp-idf-v4.4.2/components/xtensa", "" ]
+}
